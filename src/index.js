@@ -1,1 +1,3 @@
-import test from './test';
+import { imports } from "./test.js";
+
+console.log(new imports);

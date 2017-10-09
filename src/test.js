@@ -1,3 +1,7 @@
-export default 'test';
+export class imports {
 
-console.log('loading test...');
+    constructor() {
+        console.log('building imports');
+        console.log('tests');
+    }
+}

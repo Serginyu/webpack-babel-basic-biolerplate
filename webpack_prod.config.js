@@ -18,11 +18,11 @@ module.exports = {
         }]
     },
     plugins: [
-        /*new webpack.optimize.UglifyJsPlugin({
+        new webpack.optimize.UglifyJsPlugin({
             compress: {
                 warnings: false
             }
-        })*/
+        })
     ],
     stats: {
         errorDetails: true, //this does show errors
