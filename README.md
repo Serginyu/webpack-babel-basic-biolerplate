@@ -4,9 +4,13 @@ Basic boilerplate for ES6
 ### Installing
 
 ```
-npm intall
+npm install
 ```
 ### Running
+```
+npm run dev
+```
+### Building for production
 ```
 npm run build
 ```
